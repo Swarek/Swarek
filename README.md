@@ -10,7 +10,6 @@ I'm currently building **[HiCharlie](https://hicharlie.fr/)**, premium AI voice 
 - **[Context Room](https://github.com/Swarek/context-room)** — A documentation control room for long-running AI agent loops.
 - **[VoiceCode MCP](https://github.com/Swarek/voicecode-mcp)** — Voice-native agentic coding through a single MCP.
 - **[Life OS Template](https://github.com/Swarek/life-os-template)** — A Markdown-first personal operating system template for Codex.
-- **[Claude Session Manager](https://github.com/Swarek/claude-session-manager)** — Lightweight multi-session management for Claude Code.
 
 ## How I build
 
