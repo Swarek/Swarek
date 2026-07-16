@@ -17,6 +17,8 @@ I'm currently building **[HiCharlie](https://hicharlie.fr/)**, premium AI voice 
 
 I use frontier AI agents as a serious engineering tool: I set the direction, test the result, polish the experience, and document what worked and what broke.
 
+I use **[Context Room](https://github.com/Swarek/context-room)** as the main control layer across my projects. It keeps documentation structured, accurate, and maintainable over time, so agents always work from clear, current instructions. That is a major part of how I keep fast-moving projects clean and well managed.
+
 I care about:
 
 - products people can try immediately;
