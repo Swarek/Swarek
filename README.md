@@ -4,14 +4,15 @@ I build ambitious products with AI agents, then open-source the parts that can h
 
 I studied at **[42 Paris](https://42.fr/en/homepage/)**, where I learned software engineering through its project-based, peer-to-peer curriculum.
 
-I'm currently building **[HiCharlie](https://hicharlie.fr/)**, premium AI voice agents for businesses. Alongside it, I ship practical experiments across developer tools, voice interfaces, documentation systems, and interactive web projects.
+My main project is **[HiCharlie](https://hicharlie.fr/)**, premium AI voice agents for businesses. HiCharlie is not open source, but it is where most of my product and engineering work is focused.
 
-## Selected work
+## Open-source work
 
-- **[Super Bash Folds](https://github.com/Swarek/Super_Bash_Folds)** — A fast, moddable open-source platform fighter for the browser, with controller support and self-contained fighter and stage packs.
+- **Parallax** — My main open-source project: a structured debate platform that makes disagreement inspectable. I am actively developing it for a public launch.
 - **[Context Room](https://github.com/Swarek/context-room)** — A documentation control room for long-running AI agent loops.
+- **[Super Bash Folds](https://github.com/Swarek/Super_Bash_Folds)** — A fast, moddable open-source platform fighter for the browser, with controller support and self-contained fighter and stage packs.
 - **[VoiceCode MCP](https://github.com/Swarek/voicecode-mcp)** — Voice-native agentic coding through a single MCP.
-- **[Life OS Template](https://github.com/Swarek/life-os-template)** — A Markdown-first personal operating system template for Codex. That's just a quick example of my personal agent system
+- **[Life OS Template](https://github.com/Swarek/life-os-template)** — A Markdown-first personal operating system template for Codex and a small public example of my personal agent system.
 
 ## How I build
 
