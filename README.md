@@ -2,6 +2,8 @@
 
 I build ambitious products with AI agents, then open-source the parts that can help other builders.
 
+I studied at **[42 Paris](https://42.fr/en/homepage/)**, where I learned software engineering through its project-based, peer-to-peer curriculum.
+
 I'm currently building **[HiCharlie](https://hicharlie.fr/)**, premium AI voice agents for businesses. Alongside it, I ship practical experiments across developer tools, voice interfaces, documentation systems, and interactive web projects.
 
 ## Selected work
