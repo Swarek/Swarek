@@ -8,7 +8,7 @@ My main project is **[HiCharlie](https://hicharlie.fr/)**, premium AI voice agen
 
 ## Open-source work
 
-- **Parallax** — My main open-source project: a structured debate platform that makes disagreement inspectable. I am actively developing it for a public launch.
+- **[Parallax](https://github.com/Swarek/parallax)** — My main open-source project: a structured debate platform that makes disagreement inspectable.
 - **[Context Room](https://github.com/Swarek/context-room)** — A documentation control room for long-running AI agent loops.
 - **[Super Bash Folds](https://github.com/Swarek/Super_Bash_Folds)** — A fast, moddable open-source platform fighter for the browser, with controller support and self-contained fighter and stage packs.
 - **[VoiceCode MCP](https://github.com/Swarek/voicecode-mcp)** — Voice-native agentic coding through a single MCP.
