@@ -1,12 +1,14 @@
 # Hi, I'm Mathis 👋
 
-I build ambitious products with AI agents, then open-source the parts that can help other builders.
+I co-run **Peerlab**, the company behind HiCharlie and the products we build and maintain. We use AI agents as a serious engineering tool and open-source work that can help other builders.
 
 I studied at **[42 Paris](https://42.fr/en/homepage/)**, where I learned software engineering through its project-based, peer-to-peer curriculum.
 
-My main project is **[HiCharlie](https://hicharlie.fr/)**, premium AI voice agents for businesses. HiCharlie is not open source, but it is where most of my product and engineering work is focused.
+My main project at Peerlab is **[HiCharlie](https://hicharlie.fr/)**, premium AI voice agents for businesses. HiCharlie is not open source, but it is where most of my product and engineering work is focused.
 
 ## Open-source work
+
+These projects are developed and maintained through Peerlab.
 
 - **[Parallax](https://github.com/Swarek/parallax)** — An open-source structured debate platform that makes disagreement inspectable.
 - **[Context Room](https://github.com/Swarek/context-room)** — A documentation control room for long-running AI agent loops.
